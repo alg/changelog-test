@@ -1,4 +1,4 @@
 changelog-test
 ==============
 
-Update
+Update 2
